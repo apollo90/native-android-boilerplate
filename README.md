@@ -4,7 +4,7 @@
 
 
 # Stack
-- **Retrofit** - network request manager by Airbnb
+- **Retrofit** - Network request manager by Airbnb
 - **Room** - Google persistence library
 
 
