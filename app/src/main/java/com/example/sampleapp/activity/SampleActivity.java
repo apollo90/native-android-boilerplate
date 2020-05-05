@@ -1,5 +1,8 @@
-package com.example.sampleapp.Activity;
+package com.example.sampleapp.activity;
 
-public class SampleActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class SampleActivity extends AppCompatActivity {
+
 
 }

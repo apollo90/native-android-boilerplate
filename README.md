@@ -33,7 +33,7 @@
 The correct way to name your project is **com.company.appname**
 
 
-## Project Structure
+## **Project Structure**
 This is the desired project structure for our android app
 
 
@@ -45,7 +45,7 @@ This is the desired project structure for our android app
     ├── Wrapper                   
     └── Util
 
-
+## Structure and Naming Convention Explained
 
 **Activity:** Contains yout project Activity classes. An Activity name example can be LoginActivity.
 
@@ -63,37 +63,23 @@ This is the desired project structure for our android app
 
 
 
-## Naming Conventions
+## Resources Naming Convention
 
-There are actually no official documents released about naming conventions in Android projects. So, some of you might think that there is no need to have naming conventions in our Android projects. Trust me, it does not harm you in any way to adopt good and consistent naming across your Android project. Instead, it will give you several benefits:
-Meaningful filenames allow you to have a good idea on what is roughly inside the file, just by looking at the file name. This is especially helpful in bigger projects as you will often navigate within the project to find some files.
-Better organisation of the project as similar files are grouped together because of their names.
-No more confusion about names of resources or components if there are similar names in the same project
-Convenient way of giving a name to a new resource file or source file as you just need to follow the naming convention.
-Below are some guidelines on good naming conventions and guidelines:
 
-## Strings.xml
-Consider prefixing with layout name or sections, so that we know which sections it belong to
-Use namespaces. Eg. global_ or error_, etc.
-Write string values in normal conventions (do not capitalize all characters).
 
-## Colors.xml & dimens.xml
-Treat colors.xml as palette of colors. Instead of defining color per elements, define a few color theme to be used in the application.
-Similarly, for dimens.xml, treat it as palette of typical spacings and sizes in the application instead of individual values of paddings and margins of each component
-Layout Files
-The naming of layout resource files can be prefixed according to the table below, as it would help to categorize layout for similar components together, which leads to neater organisation.
+**Strings.xml**:  Consider prefixing with layout name or sections, so that we know which sections it belong to. Use namespaces. Eg. global_ or error_, etc.. Write string values in normal conventions (do not capitalize all characters).
 
-## Layout files
-Resource IDs
-Although Android allows same IDs for different view elements in different layouts within the same project, it is advisable not to do so. One way of naming the element component inside the layout is to use their short form, eg. btn for Button, txt for TextView. Layout name can also be prepended to these ids.
 
-## Resource IDs
-Drawable Files
-Drawable files can be prefixed according to its asset type. It is summarised below:
+**Resource IDs**: Android allows same IDs for different view elements, Use their short form, eg. btn for Button, txt for TextView. Layout name can also be prepended to these ids.
 
-Naming convention for Drawable files
-These naming conventions are guidelines that can help developers when building their Android application. Of course, you may not need to follow these guidelines 100% in your projects. In fact, you are also free to adjust these guidelines to your liking, or even use your own naming conventions in your projects. However, more importantly is that, once you have decided on the naming convention for a project, you should stick to it for the rest of that particular project, so as to avoid inconsistencies in naming that may cause confusion.
+**Drawable Files**: follow the naming guidelines from android i.e ic_name for images
+
+
+**NOTE:**
+
+Conventions are guidelines that can help developers when building their Android application. Of course, you may not need to follow these guidelines 100% in your projects. In fact, you are also free to adjust these guidelines to your liking, or even use your own naming conventions in your projects. However, more importantly is that, once you have decided on the naming convention for a project, you should stick to it for the rest of that particular project, so as to avoid inconsistencies in naming that may cause confusion.
+
+
 # Contributors
 
 # License
-

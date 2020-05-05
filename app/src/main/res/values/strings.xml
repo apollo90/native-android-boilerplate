@@ -1,0 +1,12 @@
+<!--
+ - Consider prefixing with layout name or sections, so that we know which sections it belong to
+ - Use namespaces. Eg. global_ or error_, etc. Write string values in normal conventions (do not capitalize all characters).
+-->
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="error_name">Sample error</string>
+
+    <string name="global_name">Global value</string>
+
+    <string name="success_name">Sample success</string>
+</resources>
