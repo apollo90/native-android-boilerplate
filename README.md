@@ -1,17 +1,27 @@
 # **Android Project Boilerplate**
+This is a description of your android app project with a summary link to important web resources.
 
 # **IDE**
-
+Android Studio is the IDE of choice available at [link]
 
 # **Stack**
-- **Retrofit** - Network request manager by Airbnb
-- **Room** - Google persistence library
+- [Retrofit](https://nodejs.org) - Network request manager by Airbnb
+- [Room Library](https://nodejs.org) - Google persistence library
 
 
-# **Framework**
+# **Framework & Illustrations**
+The following are illustrations explaining various system architectures.
+
+### **Room Persistence Diagram:**
+
+HERE IS DIAGRAM
+
+
 
 
 # **Persistence (Storage)**
+The tradionational SQLite implementation has been swapped out for the Room library by Google. Read more [link to room ]here
+
 
 # **Testing**
 
@@ -80,6 +90,6 @@ This is the desired project structure for our android app
 Conventions are guidelines that can help developers when building their Android application. Of course, you may not need to follow these guidelines 100% in your projects. In fact, you are also free to adjust these guidelines to your liking, or even use your own naming conventions in your projects. However, more importantly is that, once you have decided on the naming convention for a project, you should stick to it for the rest of that particular project, so as to avoid inconsistencies in naming that may cause confusion.
 
 
-# Contributors
+# **Contributors**
 
-# License
+# **License**
