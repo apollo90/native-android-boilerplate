@@ -91,5 +91,4 @@ Conventions are guidelines that can help developers when building their Android 
 
 
 # **Contributors**
-
-# **License**
+Charles Mutale
