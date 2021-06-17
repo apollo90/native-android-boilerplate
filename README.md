@@ -5,7 +5,7 @@ This is a description of your android app project with a summary link to importa
 Android Studio is the IDE of choice available at [link]
 
 # **Stack**
-- [Retrofit](https://nodejs.org) - Network request manager by Airbnb
+- [Retrofit](https://nodejs.org) - Network request manager by Square
 - [Room Library](https://nodejs.org) - Google persistence library
 
 
